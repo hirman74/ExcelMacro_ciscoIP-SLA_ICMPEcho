@@ -1,4 +1,4 @@
-For demonstration of cisco IP SLA ICMP Ping to less-informed management team. With potential to add into MRTG.
+For demonstration of cisco IP SLA ICMP Ping running with help from Excel Macro.
 
 Copy ExcelVBAMacro.vbs into Excel Macro. 
 Follow the Layout.PNG into Excel Sheet1. 
